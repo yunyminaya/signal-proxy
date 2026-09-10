@@ -3,7 +3,7 @@ module github.com/livekit/signal-proxy
 go 1.22.1
 
 require (
-	github.com/gorilla/websocket v1.5.1
+	github.com/gorilla/websocket v1.5.3
 	github.com/livekit/protocol v1.12.0
 	github.com/livekit/server-sdk-go/v2 v2.1.1-0.20240415173214-5d42adc6aa0b
 	github.com/pion/webrtc/v3 v3.2.29
